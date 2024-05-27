@@ -1,0 +1,36 @@
+.forthdiv {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.ForthRow {
+  box-sizing: border-box;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 440px;
+  height: 290px;
+  padding: 24px;
+  .Rowfour-icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 24PX;
+  }
+
+  .Rowfour-header {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+
+  .Rowfour-text {
+    font-size: 16px;
+    padding: 0px 32px;
+    color: #9E9E9E;
+    line-height: 25px;
+  }
+
+}
